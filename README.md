@@ -27,3 +27,4 @@ npm run server
 ```
 ng build
 ```
+[View the App Live](https://angular-task-tracker.netlify.app/)
